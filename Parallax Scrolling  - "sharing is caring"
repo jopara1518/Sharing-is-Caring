@@ -1,0 +1,51 @@
+<html>
+  <head>
+  <title>Gender Equality</title>
+  <link rel="stylesheet" type="text/css" href="normalize.css">
+  <link href='https://fonts.googleapis.com/css?family=Playfair+Display:900italic,700italic|Fira+Sans:400,500italic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+      <section id="gender" class="full">
+        <img id="header"src="Sexism_Header.png">
+      </section>
+      <section class="content">
+        <h1>If only what was expected of girls, was expected of boys?</h1>
+        <p><i>Gender equality,</i> also known as sex equality, gender egalitarianism, sexual equality or equality of the genders is the view that all genders, including men and women, should receive equal treatment, and should not be discriminated against based on their gender.
+        </p>
+      </section>
+      <section class="content">
+        Read more here: <a href="http://www.fawcettsociety.org.uk/our-work/issues/?gclid=CNrEop2GlcoCFWnlwgod-k0HJA">Fawcett Society</a>
+      </section>
+      <section id="sexism" class="full">
+        <div class="content">
+      <h2> Boys vs. Girls</h2>
+      </div>
+      </section>
+      <section id="hisandhers" class="full">
+      </section>
+      <section class="full"></section>
+      <section id="email" class="content">
+        <h3>Subscribe Here!</h3>
+        <div id="mc_embed_signup">
+  <form action="//twitter.us12.list-manage.com/subscribe/post?u=43efbdeecd252c30b1ead06d0&amp;id=ab4c4ec792" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+      <div id="mc_embed_signup_scroll">
+          <div class="mc-field-group">
+              <label for="mce-EMAIL">Personal Email Address </label>
+              <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="you@email.com">
+          </div>
+          <div id="mce-responses" class="clear">
+              <div class="response" id="mce-error-response" style="display:none"></div>
+              <div class="response" id="mce-success-response" style="display:none"></div>
+          </div>
+          <div style="position: absolute; left: -5000px;" aria-hidden="true">
+          <input type="text" name="b_43efbdeecd252c30b1ead06d0_ab4c4ec792" tabindex="-1" value="">
+      </div>
+      <div class="clear">
+          <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+      </div>
+    </div>
+  </form>
+  </div></section>
+  </body>
+</html>
