@@ -1,0 +1,49 @@
+body{
+  font-family: 'Fira Sans', sans-serif;
+}
+
+.content {
+  margin: auto; /* this is centering the text horizontally */
+  max-width: 40em; /* 640px equalent but 40em is flexible for fonts and webspace */
+  padding: 0 1em; /* no padding top or bottom, 1em padding left & right*/
+}
+
+.full {
+  height: 100%;
+  border: 1px solid pink;
+  background-size: cover;
+  background-position: center;
+    background-attachment: fixed;/* attribute for parallax effect!*/
+}
+
+html,body{
+  height: 100%;
+}
+
+#gender {
+  background-image: url(gender.jpg);
+}
+
+#sexism {
+  background-image: url(sexism.jpg);
+}
+
+#hisandhers{
+  background-image: url(hisandhers.jpg);
+}
+
+/* id used for indiviudal sections whereas class is used to target a group*/
+
+#header {
+  width: 300px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -150px;
+  margin-top: -150px;
+}
+
+#email {
+  position: absolute;
+  margin-left: 380px;
+}
